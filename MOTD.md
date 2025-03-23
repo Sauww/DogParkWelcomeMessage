@@ -2,7 +2,7 @@
 ---
 
 The dog park is duel playground server. Please read the rules and guidelines of the server below.
-Join our discord by clicking on the logo for more info  [![discord logo](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d80db9971f10a9757c99_Symbol.svg) ](https://discord.gg/SqyVZ32djC)
+Join our discord by clicking on the logo for more info  [Discord](https://discord.gg/SqyVZ32djC)
 
 ---
 
