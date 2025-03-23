@@ -17,6 +17,6 @@ More info on our <a id="Discord server">https://discord.gg/SqyVZ32djC</>
 * On the rest of the map, friendly FFA allowed
 * No smoke/fire bombs, throwable, beartraps & toolbox except FFA area.
 
-### FFA map
+### FFA map (LiteMordhauTestLevel)
 * FFA allowed everywhere, except in duel zone. To access it type in chat "tp duel"
 
