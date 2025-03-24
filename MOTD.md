@@ -1,7 +1,7 @@
 # Welcome to **The dog park**
 
 The dog park is a duel playground server. Please read the rules and guidelines of the server below.
-More info on our <a id="Discord server">https://discord.gg/SqyVZ32djC</>
+More info on our <a id="Discord server">discord.gg/Qug6SZvZvQ</>
 ## Rules
 
 ### General rules
